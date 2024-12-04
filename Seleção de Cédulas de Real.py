@@ -6,6 +6,7 @@ from io import BytesIO
 
 # Links das imagens das cédulas
 links_cedulas = {
+    "1 Real": "https://filatelicavitoriaregia.com.br/wp-content/uploads/2023/12/cedula-1-real-2001-anverso.jpg",
     "2 Reais": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSs2Q34ho0mdpyG6uP9Kues39iDHTo-ynSRA&s",
     "5 Reais": "https://www.bcb.gov.br/novasnotas/assets/img/section/5/5_front.jpg",
     "10 Reais": "https://www.bcb.gov.br/novasnotas/assets/img/section/10/10_front.jpg",
